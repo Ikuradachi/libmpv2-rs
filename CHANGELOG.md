@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## Version 6.0.0
+
 - Exclude `test-data/` folder from publishing to reduce download size
 - [breaking] `RenderContext::new()` replaced by `Mpv::create_render_context()`
 - [breaking] `'static` trait bound added to `OpenGLInitParams<GLContext>` @Wybxc
